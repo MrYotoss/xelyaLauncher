@@ -1,0 +1,12 @@
+[20:28:44] [Thread-3/INFO]: Setting user: qdqsd
+[20:28:46] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:28:46] [Client thread/ERROR]: Couldn't initialize twitch stream
+[20:28:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[20:28:56] [Sound Library Loader/INFO]: Sound engine started
+[20:28:57] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[20:28:57] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[20:28:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[20:28:59] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:28:59] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:29:00] [Sound Library Loader/INFO]: Sound engine started
+[20:29:06] [Client thread/INFO]: Stopping!
